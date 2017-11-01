@@ -19,6 +19,7 @@ public class Practical2 {
         System.out.println("Hello");
         System.out.println("My First Message");
         System.out.println("My Second Message");
+        System.out.println("My Third Message");
     }
     
 }
