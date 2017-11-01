@@ -17,7 +17,8 @@ public class Practical2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello");
-        System.out.println("My Message");
+        System.out.println("My First Message");
+        System.out.println("My Second Message");
     }
     
 }
